@@ -1,0 +1,11 @@
+---
+layout: post
+title: an explanation on memes as regards hypotheses on the origin of religion
+---
+"Meme" is a relatively new word, first coined by Richard Dawkins in his 1976 book *The Selfish Gene*, to refer to a discrete unit of culturally transmitted information roughly analogous to a gene. And, as analogies go, the comparison is fairly watertight. Both genes and memes are replicators, but whereas genes replicate literally and physically, memes replicate in a manner similar to files on a computer drive. When you create a backup drive, your files are being replicated. When I tell you something, that something is replicated in your mind. For as long as you remember it, my information has a copy in your head. If you go on to tell someone else, it replicates again, and so on down the line.
+
+As with genes, the success of a meme is measured in its proliferation. Any trait that the meme retains through transmission that helps it to be transmitted is a "good" trait, and any that hurts its chances of transmission is a "bad" trait. Note that "bad" and "good" are unrelated to various qualitative judgements we may make about the meme such as its truth-value or its profundity or the benefit or harm on society of it. A trait is good if having it makes the meme more successful, and that is that.
+
+It's easy to see why religions succeed. Religions are "memeplexes", large collections of individual memes roughly analogous to an organism which replicates largely as a whole, its memes being packaged together under one umbrella. Each individual meme is afforded protection by the rest. As long as the memeplex itself replicates with enough success, individually maladapted memes can proliferate. Further, the sundry religious memeplexes are as collectives, **extremely** well adapted.
+
+For a start, all good religions have a meme or six-hundred and six discouraging apostasy. You are threatened with Hell and bad juju if you ever dare to doubt your beliefs. Additionally, you are encouraged to transmit your memeplex through diligent evangelism. Every religion has scores of memes adapted exactly for the purpose of transmitting the memeplex as a whole. Persuasive arguments litter the field of theology, putting weapons in the arsenal of the mind of the evangelist.

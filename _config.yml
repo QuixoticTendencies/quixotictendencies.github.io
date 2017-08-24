@@ -23,3 +23,4 @@ github_username:    quixotictendencies
 
 # Build settings
 markdown: kramdown
+exclude: ["/_posts/2017-08-24-template.markdown"]

@@ -1,4 +1,3 @@
-Delete this line
 ---
 layout: post
 title: "Template"

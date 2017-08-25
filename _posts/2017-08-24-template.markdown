@@ -1,6 +1,0 @@
----
-layout: post
-title: "Template"
-date: 2017-08-24 15:53:08 -0800
-
----
